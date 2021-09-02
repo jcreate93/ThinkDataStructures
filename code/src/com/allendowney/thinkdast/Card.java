@@ -1,5 +1,5 @@
 package com.allendowney.thinkdast;
-
+// check initialization
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
